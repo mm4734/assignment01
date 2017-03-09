@@ -22,7 +22,7 @@ margin: 10px 0;
 }
 
 h1{
-    color: #606f5f !important;
+    color: #39201B !important;
     font-weight: 400;
     font-size: 2.5em;
     max-width: 800px;
@@ -34,12 +34,12 @@ h1{
 }
 
 h2{
-    color: #757575 !important;
+    color: #39201B !important;
     text-align: left;
 }
 
 h3{
-    color: #757575 !important;
+    color: #39201B !important;
     font-size: 1.25em;
     font-weight: 300;
     max-width: 800px;
@@ -71,7 +71,7 @@ p.bioText{
 }
 
 p.bioText > a{
-    color: #757575 !important;
+    color: #39201B !important;
     color: inherit;
 }
 

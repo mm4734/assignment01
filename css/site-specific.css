@@ -4,8 +4,8 @@ body{
 }
 
 div.title{
-    width: 90%;
-    height: 90%;
+    width: 120%;
+    height: 120%;
 }
 
 ol{
@@ -14,7 +14,7 @@ padding-left: 0.5em;
 }
 
 hr {
-    margin: 20px 20px;
+    margin: 10px 10px;
 }
 
 li{

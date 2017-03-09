@@ -1,6 +1,6 @@
 body{
     font-family: 'Roboto Condensed', helvetica, sans-serif;
-    background-color: #F8EAE7;
+    background-color: #F8EAE7 !important;
 }
 
 div.title{

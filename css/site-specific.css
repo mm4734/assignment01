@@ -71,7 +71,7 @@ p.bioText{
 }
 
 p.bioText > a{
-    color: #39201B !important;
+    color: #39201B !important;    
     color: inherit;
 }
 

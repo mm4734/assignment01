@@ -35,7 +35,7 @@ h1{
 
 h2{
     color: #757575 !important;
-    text-align: center;
+    text-align: left;
 }
 
 h3{
@@ -43,7 +43,7 @@ h3{
     font-size: 1.25em;
     font-weight: 300;
     max-width: 800px;
-    text-align: center;
+    text-align: left;
     margin-top: 5px;
     margin-right: auto;
     margin-left: auto;
